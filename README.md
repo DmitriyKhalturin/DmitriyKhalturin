@@ -1,23 +1,21 @@
 ## Всем привет 👋
-### Меня зовут Халтурин Дмитрий, и я инженер-программист
+
+<h3>Меня зовут Халтурин Дмитрий, я инженер-программист <a href="https://t.me/karpoffsky"><img alt="Dmitriy's Telegram" width="22px" src="icons/telegram.svg" /></a></h3>
 
 <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=DmitriyKhalturin&label=Profile%20views&color=0e75b6&style=flat" alt="DmitriyKhalturin" /></p>-->
 
-<a href="https://t.me/karpoffsky"><img align="left" alt="Dmitriy's Telegram" width="22px" src="icons/telegram.svg" /></a>
-<br />
-
-### Стек, который я использую
+### Ниже стек, который я использую в работе
 
 #### Языки программирования:
 
 <img align="left" src="icons/kotlin.svg" height="16px" />
 <img align="left" src="icons/java.svg" height="32px" />
-<img align="left" src="icons/python.svg" height="27px" />
+<img align="left" src="icons/python.svg" height="28px" />
 <img align="left" src="icons/iso_c++.svg" height="24px" />
 <br />
 <br />
 
-#### Стек технологий:
+#### Технологий:
 
 - MVVM + Android DataBinding
 - Android SDK / JetPack
@@ -28,7 +26,6 @@
 - Google Maps SDK, Google Billing SDK, Facebook SDK
 - Firebase/Crashlytics
 - JS/HTML/CSS
-
 
 <!--
 **DmitriyKhalturin/DmitriyKhalturin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
