@@ -1,6 +1,6 @@
 ## Всем привет 👋
 
-<h3>Меня зовут Халтурин Дмитрий, я инженер-программист <a href="https://t.me/karpoffsky"><img alt="Dmitriy's Telegram" width="22px" src="icons/telegram.svg" /></a></h3>
+<h3>Меня зовут Халтурин Дмитрий, я инженер-программист. Мой телеграм <a href="https://t.me/karpoffsky"><img alt="Dmitriy's Telegram" width="22px" src="icons/telegram.svg" /></a></h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DmitriyKhalturin&label=Profile%20views&color=0e75b6&style=flat" alt="DmitriyKhalturin" /></p>
 
