@@ -15,7 +15,7 @@
 <br />
 <br />
 
-#### Технологий:
+#### Технологии:
 
 - MVVM + Android DataBinding
 - Android SDK / JetPack
