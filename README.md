@@ -17,15 +17,16 @@
 
 #### Технологии:
 
-- MVVM + Android DataBinding
+- MVVM/Android DataBinding
+- JetPack Compose/MVI
 - Android SDK / JetPack
-- Kotlin Coroutines, RxJava2
+- Kotlin Coroutines, <s>RxJava2</s>
 - DaggerHilt, Koin
 - Room
 - OkHttp, Retrofit, Gson
-- Google Maps SDK, Google Billing SDK, Facebook SDK
+- Google Maps SDK, Google Billing SDK, <s>Facebook SDK</s>
 - Firebase/Crashlytics
-- JS/HTML/CSS
+- Django <sub>JS/HTML/CSS</sub>
 
 #### Выполняемые роли на проекте:
 - Организация процесса разработки
