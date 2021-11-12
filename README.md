@@ -17,9 +17,9 @@
 
 #### Технологии:
 
-- MVVM/Android DataBinding
+- Android SDK / JetPack libs
 - JetPack Compose/MVI
-- Android SDK / JetPack
+- MVVM/Android DataBinding
 - Kotlin Coroutines, <s>RxJava2</s>
 - DaggerHilt, Koin
 - Room
