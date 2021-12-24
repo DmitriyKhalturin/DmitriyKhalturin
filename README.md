@@ -43,6 +43,11 @@
 - календарь, планирование
 - финтех
 
+#### Мой стаж:
+- февраль 2014г. - октябрь 2020г. →  [Сitronium](https://citronium.com/)
+- октябрь 2020г. - май 2021г. →  [Симбирсофт](https://www.simbirsoft.com/)
+- май 2021г. - октябрь 2021г. →  <img alt="BabyJa" width="20px" src="icons/BabyJa.png"/> [BabyJa](https://www.babyja.de/)
+
 <br />
 <br />
 
