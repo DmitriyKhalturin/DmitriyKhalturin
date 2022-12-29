@@ -47,7 +47,7 @@
 - февраль 2014г. - октябрь 2020г. →  [Сitronium](https://citronium.com/)
 - октябрь 2020г. - май 2021г. →  [Симбирсофт](https://www.simbirsoft.com/)
 - май 2021г. - октябрь 2021г. →  <img alt="BabyJa" width="20px" src="icons/BabyJa.png"/> [BabyJa](https://www.babyja.de/)
-- январь 2022г. - июнь 2022г. →  OOO Эр Лаб
+- январь 2022г. - июнь 2022г. →  OOO "Эр Лаб"
 - июнь 2022г. - декабрь 2022г. →  AO "A 201"
 
 <br />
